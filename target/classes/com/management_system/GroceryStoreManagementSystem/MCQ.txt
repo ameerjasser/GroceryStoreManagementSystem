@@ -1,0 +1,8 @@
+Task 4: MCQ Answers
+Here are the answers to the multiple-choice questions provided in the assignment description:
+1. b. ArrayList provides O(1) access by index, which is beneficial for random product lookups by ID.  
+2. c. The cart requires frequent sequential traversal and insertions/removals at the ends, where linked lists excel, and random access by index is rarely needed.  
+3. b. A stack is a restricted version of a linked list (LIFO access only).  
+4. b. Both implementations would work correctly, but the ArrayList might require occasional resizing and shifting of elements, making push/pop less efficient in some cases.  
+5. a. Removing from the head of a singly linked list is O(1), while removing from the tail would require O(n) traversal to find the previous node.  
+6. b. Apple, Orange. (Banana was added, then undone, and Orange was added).

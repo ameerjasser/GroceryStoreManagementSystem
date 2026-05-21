@@ -1,0 +1,6 @@
+101,Apple,1.2,50
+102,Banana,0.5,100
+103,Whole Milk,3.5,30
+104,Loaf of Bread,2.0,25
+105,Dozen Eggs,4.2,40
+106,Orange Juice,5.0,20
